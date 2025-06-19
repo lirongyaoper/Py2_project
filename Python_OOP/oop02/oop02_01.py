@@ -1,3 +1,6 @@
+from pprint import pprint
+
+
 class Student:
     student_count = 10
 def main():
@@ -9,6 +12,16 @@ def main():
     print(Student.student_count)
     setattr(Student,"student_count",200)
     print(Student.student_count)
-
+    Student.newattribute = "hello"
+    print(Student.newattribute)
+    del Student.newattribute
+    #print(Student.newattribute)
+    #delattr(Student,"newattribute")
+    s1 = Student()
+    s2 = Student()
+    Student.student_count=4
+    print(s1.student_count)
+    print(s2.student_count)
+    pprint(Student.__dict__)
 if __name__ == '__main__':
     main()
