@@ -33,30 +33,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.01 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.01 (2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.01 (3).executor&quot;: &quot;Run&quot;,
-    &quot;Python.01 (4).executor&quot;: &quot;Run&quot;,
-    &quot;Python.01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.oop02_01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.oop02_02.executor&quot;: &quot;Run&quot;,
-    &quot;Python.oop03_01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.oop05_01.executor&quot;: &quot;Run&quot;,
-    &quot;Python.oop06_01.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/lirongyao0916/Projects/Bpython&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.01 (1).executor": "Run",
+    "Python.01 (2).executor": "Run",
+    "Python.01 (3).executor": "Run",
+    "Python.01 (4).executor": "Run",
+    "Python.01.executor": "Run",
+    "Python.02 (1).executor": "Run",
+    "Python.02.executor": "Run",
+    "Python.03.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.oop02_01.executor": "Run",
+    "Python.oop02_02.executor": "Run",
+    "Python.oop03_01.executor": "Run",
+    "Python.oop05_01.executor": "Run",
+    "Python.oop06_01.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/lirongyao0916/Projects/Bpython",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
-}</component>
-  <component name="RunManager" selected="Python.01 (2)">
+}]]></component>
+  <component name="RunManager" selected="Python.03">
     <configuration name="01 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Bpython" />
       <option name="ENV_FILES" value="" />
@@ -101,7 +103,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Bpython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -110,11 +112,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_OOP/opp14" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_OOP/oop18" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_OOP/opp14/01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_OOP/oop18/02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +147,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Bpython" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -154,11 +156,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_OOP/opp13abstract_class" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_OOP/oop18" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_OOP/opp13abstract_class/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_OOP/oop18/03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.03" />
+        <item itemvalue="Python.02 (1)" />
         <item itemvalue="Python.01 (2)" />
         <item itemvalue="Python.02" />
         <item itemvalue="Python.01 (1)" />
-        <item itemvalue="Python.01" />
-        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
