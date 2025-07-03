@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd92f228-3e43-4da9-9180-66d3d1f02ecc" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="dd92f228-3e43-4da9-9180-66d3d1f02ecc" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +53,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/home/lirongyao0916/Projects/Bpython",
+    "last_opened_file_path": "/home/lirongyao0916/Projects/Lx1_project",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
@@ -183,7 +181,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-16a10d8b274e-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.21735.39" />
+        <option value="bundled-python-sdk-5c61f135ce9a-d902c0275401-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.23309.36" />
       </set>
     </attachedChunks>
   </component>
